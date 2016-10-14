@@ -52,13 +52,15 @@ This scorecard is essentially also known as a third-generation balanced scorecor
 
   * Aim for high-level roll-up measurements. There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
 
-5. Brainstorm Initiatives.
+5. Brainstorm Initiatives and Experiments.
 
-  * Initiatives are special projects with a finite start and end date.
+  * Initiatives are special projects where work is well-understood; experiments are special projects where work involves testing hypotheses, validating learning, and generating new knowledge.
 
-  * Iniatives are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realise the objectives. 
+  * Initiatives and experiements are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realise the objectives. 
 
   * Use systems thinking to identify cause-and-effect relationships among initiatives; for example, what do we need to do to achieve the results we expect? 
+
+  * Use SMART goal setting, including a finite start date and end date.
 
 6. Group work into projects, programs, and portfolios.
 
