@@ -8,16 +8,9 @@
 
 <h2><a name="introduction">Introduction</a></h2>
 
-The Strategic Balanced Scorecard is simple "4 box" approach to business planning. 
+The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), and key performance indicators (KPIs).
 
-The four boxes:
-
-1. Financial Stewardship
-2. Internal Processes
-3. External Relations
-4. Learning & Growth
-
-This scorecard is essentially also known as a third-generation balanced scorecore, with some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
+This scorecard is much like on third-generation balanced scorecore. We have with some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
 
 
 <h2><a name="how">How to create a Strategic Balanced Scorecard</a></h2>
@@ -36,7 +29,7 @@ This scorecard is essentially also known as a third-generation balanced scorecor
 
   * Internal Processes. Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
-  * External Relations. Examples: how we wish to be perceived by customers, partners, vendors, regulators, the general public, etc. 
+  * External Relations. Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc. 
 
   * Learning & Growth. Examples: what needs to happen for all of the above to be sustained and developed in terms of people, processes, products, perceptions, etc.
 
