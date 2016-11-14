@@ -42,13 +42,13 @@ Improve the destination statement by describing it via four perspectives.
 
   * Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, etc.
 
-2. Internal Processes
-
-  * Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
-
-3. External Relations
+2. External Relations
 
   * Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
+
+3. Internal Processes
+
+  * Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
 4. Learning & Growth
 
@@ -138,6 +138,13 @@ Monitor organization performance compared with strategic goals.
 
   * Provide feedback loops for internal processes and external outcomes, in order to continuously improve strategic performance and results.
 
+NASA says:
+
+* Align a balanced set of performance metrics with business strategy and vision
+* Provide management and work teams with the information necessary and sufficient to meet their objectives and goals
+* Create “line-of-sight” at lower levels of the organization
+* Foster and support process continuous improvement initiatives
+
 
 <h2><a name="metric">How to define a metric</a></h2>
 
@@ -153,6 +160,17 @@ To define a metric, be sure to cover at least these areas:
 * Data source: the exact data sources involved in calculating a metric value
 * Owner: the accountable person for the metric
 * Comments: any outstanding issues regarding the metric
+
+Also consider:
+* Does it clearly define what constitutes business excellence?
+* Does it provide the information required to set aggressive yet achievable strategic objectives and stretch goals?
+* Does it accurately portray progress and probability of achieving both long-term strategic objectives and near-term milestones?
+* Does it identify the root causes of barriers?
+* Does it focus the organization on the priority improvement needs?
+* Does it drive the behavior and actions required to achieve the objectives?
+* Does it align work with value?
+* Is it easy to use?
+* Does it involve everyone?
 
 <h2><a name="metric-examples">Metric examples</a></h2>
 
