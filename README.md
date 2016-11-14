@@ -38,21 +38,21 @@ Imagine a Strategic Destination Statement:
 
 Improve the destination statement by describing it via four perspectives.
 
-1. Financial Stewardship
+1. Financial
 
-  * Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, etc.
+  * Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, stewardship, dividends, etc.
 
-2. External Relations
+2. External
 
   * Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
 
-3. Internal Processes
+3. Internal
 
-  * Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
+  * Examples: company processes, business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
-4. Learning & Growth
+4. Learning
 
-  * Examples: what needs to happen for all of the above to be sustained and developed in terms of people, processes, products, perceptions, etc.
+  * Examples: what needs to happen for all of the above to be sustained and developed in terms of growth, people, processes, products, perceptions, controls, governance, etc.
 
 
 <h2><a name="okr">Plan your Objectives and Key Results (OKRs)</a></h2>
