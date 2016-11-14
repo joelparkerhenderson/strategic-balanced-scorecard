@@ -2,6 +2,12 @@
 
 * [Introduction](#introduction)
 * [How to create a Strategic Balanced Scorecard](#how)
+* [Improve the destination statement](#improve)
+* [Plan your Objectives and Key Results (OKRs)](#okr)
+* [List your Key Success Factors (KSFs)](#ksf)
+* [Create your Key Performance Metrics (KPMs)](#kpi)
+* [Brainstorm Initiatives and Experiments](#initiatives-and-experiements)
+* [Group the work into projects, programs, and portfolios](#group)
 * [Why use a Strategic Balanced Scorecard](#why)
 * [How to define a metric](#metric)
 * [Metric examples](#metric-examples)
@@ -17,7 +23,7 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
 <h2><a name="how">How to create a Strategic Balanced Scorecard</a></h2>
 
-1. Imagine a Strategic Destination Statement.
+Imagine a Strategic Destination Statement:
 
   * Describe what the organisation is likely to look like at an agreed future date.
 
@@ -25,43 +31,91 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
   * In practice it is rare to find a pre-existing document that offers the necessary destination clarity and certainty.
 
-2. Improve the destination statement by describing it via four perspectives.
+  * Consider the organization's strategic themes, competitive advantages, and major initiatives.
 
-  * Financial Stewardship. Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, etc.
 
-  * Internal Processes. Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
+<h2><a name="improve">Improve the destination statement</a></h2>
 
-  * External Relations. Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
+Improve the destination statement by describing it via four perspectives.
 
-  * Learning & Growth. Examples: what needs to happen for all of the above to be sustained and developed in terms of people, processes, products, perceptions, etc.
+1. Financial Stewardship
 
-3. Plan your Objectives and Key Results (OKRs).
+  * Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, etc.
 
-  * Describe what needs to be done and achieved in order for the organisation to reach its destination, including each strategic perspective.
+2. Internal Processes
 
-  * Use systems thinking to identify cause-and-effect relationships among objectives. Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
+  * Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
-4. Measure your Key Performance Indicators (KPIs).
+3. External Relations
 
-  * Identify suitable metrics for your objectives and key results. Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals. See below for how to define a metric.
+  * Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
 
-  * Aim for high-level roll-up measurements. There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
+4. Learning & Growth
 
-5. Brainstorm Initiatives and Experiments.
+  * Examples: what needs to happen for all of the above to be sustained and developed in terms of people, processes, products, perceptions, etc.
 
-  * Initiatives are special projects where work is well-understood; experiments are special projects where work involves testing hypotheses, validating learning, and generating new knowledge.
 
-  * Initiatives and experiements are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realise the objectives.
+<h2><a name="okr">Plan your Objectives and Key Results (OKRs)</a></h2>
 
-  * Use systems thinking to identify cause-and-effect relationships among initiatives; for example, what do we need to do to achieve the results we expect?
+Describe what needs to be done and achieved in order for the organization to reach its destination.
+
+* Cover each strategic perspective: financial, external, internal, learning.
+
+* Cover business objectives and operational objectives.
+
+Use systems thinking to identify cause-and-effect relationships among objectives.
+
+* Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
+
+
+<h2><a name="ksf">List your Key Success Factors (KSFs)</a></h2>
+
+Describe the actions that teams and individuals must do to reach the objectives and key results.
+
+* Who will do what, when, and how?
+
+* Cover how to change people, processes, tools, controls, and strategy.
+
+Aim for high-level factors.
+
+* There is more value in a short list of the top success factors than in an exhaustive task list that covers every tiny detail.
+
+
+<h2><a name="kpm">Create your Key Performance Metrics (KPMs)</a></h2>
+
+Create suitable metrics for your objectives and key results.
+
+* Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
+
+* See below for how to define a metric.
+
+Aim for high-level roll-up metrics.
+
+* There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
+
+
+<h2><a name="initiatives-and-experiments">Brainstorm Initiatives and Experiments</a></h2>
+
+Initiatives are special projects where work is well-understood.
+
+Experiments are special projects where work involves testing hypotheses, validating learning, and generating new knowledge.
+
+  * Initiatives and experiements are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realize the objectives.
+
+Use systems thinking to identify cause-and-effect relationships among initiatives.
+
+  * For example, what do we need to do to achieve the results we expect?
 
   * Use SMART goal setting, including a finite start date and end date.
 
-6. Group work into projects, programs, and portfolios.
 
-  * Projects that are related can be grouped into a "program".
+<h2><a name="group">Group the work</a></h2>
 
-  * Projects and programs that are unrelated can be grouped into a "portfolio".
+Group the work into projects, programs, and portfolios.
+
+  * Projects that are related can be grouped into a "program". Typically a program is time-limited, not ongoing.
+
+  * Projects and programs that are unrelated can be grouped into a "portfolio". Typically a portfolio is ongoing, not time-limited.
 
 
 <h2><a name="why">Why use a Strategic Balanced Scorecard?</a></h2>
@@ -103,8 +157,8 @@ To define a metric, be sure to cover at least these areas:
 <h2><a name="metric-examples">Metric examples</a></h2>
 
 Financial:
-* sales growth
-* improved cash flow
+* Sales growth
+* Improved cash flow
 * ROI or ROE
 
 Customer value:
