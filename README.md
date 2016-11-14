@@ -4,6 +4,7 @@
 * [How to create a Strategic Balanced Scorecard](#how)
 * [Why use a Strategic Balanced Scorecard](#why)
 * [How to define a metric](#metric)
+* [Metric examples](#metric-examples)
 * [For more information](#more)
 
 
@@ -98,6 +99,39 @@ To define a metric, be sure to cover at least these areas:
 * Data source: the exact data sources involved in calculating a metric value
 * Owner: the accountable person for the metric
 * Comments: any outstanding issues regarding the metric
+
+<h2><a name="metric-examples">Metric examples</a></h2>
+
+Financial:
+* sales growth
+* improved cash flow
+* ROI or ROE
+
+Customer value:
+* Customer on-time delivery %
+* Customer lead time reductions
+* Customer satisfaction ratings
+
+Operations improvements:
+* Inventory turns
+* Overall trhoughput
+* Lead time reductions
+
+Productivity improvements:
+* Overall efficiency % gains
+* Sales per employee
+
+Value stream primary metrics:
+* Units per person
+* On-time delivery % by product
+* Quality first pass yield
+* Average cost per unit
+* Dock-to-dock times
+
+Value stream support metrics:
+* OEE at the constraint level
+* Average of cross training hours per person
+* Number of safety incidents
 
 
 <h2><a name="more">For more information</a></h2>
