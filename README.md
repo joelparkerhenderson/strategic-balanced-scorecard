@@ -3,6 +3,7 @@
 * [Introduction](#introduction)
 * [How to create a Strategic Balanced Scorecard](#how)
 * [Why use a Strategic Balanced Scorecard](#why)
+* [How to define a metric](#metric)
 * [For more information](#more)
 
 
@@ -17,7 +18,7 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
 1. Imagine a Strategic Destination Statement.
 
-  * Describe what the organisation is likely to look like at an agreed future date. 
+  * Describe what the organisation is likely to look like at an agreed future date.
 
   * In many cases this builds on existing plans, documents, vision statements, mission statements, and team knowledge.
 
@@ -29,7 +30,7 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
   * Internal Processes. Examples: business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
-  * External Relations. Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc. 
+  * External Relations. Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
 
   * Learning & Growth. Examples: what needs to happen for all of the above to be sustained and developed in terms of people, processes, products, perceptions, etc.
 
@@ -41,7 +42,7 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
 4. Measure your Key Performance Indicators (KPIs).
 
-  * Identify suitable measures for your objectives and key results: construct the measures to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
+  * Identify suitable metrics for your objectives and key results. Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals. See below for how to define a metric.
 
   * Aim for high-level roll-up measurements. There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
 
@@ -49,9 +50,9 @@ This scorecard is much like on third-generation balanced scorecore. We have with
 
   * Initiatives are special projects where work is well-understood; experiments are special projects where work involves testing hypotheses, validating learning, and generating new knowledge.
 
-  * Initiatives and experiements are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realise the objectives. 
+  * Initiatives and experiements are mapped to strategic objectives, in order to give an indication of the projects and actions that are needed in order to realise the objectives.
 
-  * Use systems thinking to identify cause-and-effect relationships among initiatives; for example, what do we need to do to achieve the results we expect? 
+  * Use systems thinking to identify cause-and-effect relationships among initiatives; for example, what do we need to do to achieve the results we expect?
 
   * Use SMART goal setting, including a finite start date and end date.
 
@@ -72,7 +73,7 @@ Transform an organization's strategic plan into active work.
 
 Enable more effective teamwork.
 
-  * Clearly connect strategy formulation to tactical implementation. 
+  * Clearly connect strategy formulation to tactical implementation.
 
   * Facilitate articulation, communication, and socialization of strategy,objectives, and performance.
 
@@ -83,10 +84,26 @@ Monitor organization performance compared with strategic goals.
   * Provide feedback loops for internal processes and external outcomes, in order to continuously improve strategic performance and results.
 
 
+<h2><a name="metric">How to define a metric</a></h2>
+
+To define a metric, be sure to cover at least these areas:
+
+* Title: use an exact name to avoid ambiguity
+* Objective: the relation of the metric with the organizational objectives must be clear
+* Scope: state the areas of business and/or parts of the organization that are included and/or excluded.
+* Target: Benchmarks must be determined in order to monitor progress
+* Formula: the exact calculation of the metric
+* Units: what is/are the unit(s) of measurement in use
+* Frequency: when is the metric recorded and reported
+* Data source: the exact data sources involved in calculating a metric value
+* Owner: the accountable person for the metric
+* Comments: any outstanding issues regarding the metric
+
+
 <h2><a name="more">For more information</a></h2>
 
 * Credit: [The development of the Balanced Scorecard as a strategic management tool](https://courses.cs.ut.ee/MTAT.03.243/2015_spring/uploads/Main/BSC.pdf)
 
 * Credit: [Balanced scorecard slides by Charles Cotter](http://www.slideshare.net/CharlesCotter/balanced-scorecard-41321389)
 
-
+* Credit: [Metrics and Performance Measurement System for the Lean Enterprise](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-852j-integrating-the-lean-enterprise-fall-2005/lecture-notes/12_metrics.pdf)
