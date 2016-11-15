@@ -85,11 +85,11 @@ Create suitable indicators for your objectives and key results.
 
 * Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
 
-* Key Leading Indicators (KLIs) are KPIs that show up first to indicate there may be success
+* Key Leading Indicators (KLIs) are KPIs that tend to show up earliest.
 
 * Key Performance Measures (KPMs) are how you measure KPIs.
 
-* See our guide on [performance metrics](https;//github.com/joelparkrhenderson/performance_metrics)
+* For examples of KPIs and how to create metrics, see our guide on [performance metrics](https;//github.com/joelparkrhenderson/performance_metrics)
 
 Aim for high-level roll-up metrics.
 
