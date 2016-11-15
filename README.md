@@ -79,13 +79,17 @@ Aim for high-level factors.
 * There is more value in a short list of the top success factors than in an exhaustive task list that covers every tiny detail.
 
 
-<h2><a name="kpm">Create your Key Performance Metrics (KPMs)</a></h2>
+<h2><a name="kpm">Create your Key Performance Indicators (KPIs)</a></h2>
 
-Create suitable metrics for your objectives and key results.
+Create suitable indicators for your objectives and key results.
 
 * Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
 
-* For help with this, see our guide on [performance metrics](https;//github.com/joelparkrhenderson/performance_metrics)
+* Key Leading Indicators (KLIs) are KPIs that show up first to indicate there may be success
+
+* Key Performance Measures (KPMs) are how you measure KPIs.
+
+* See our guide on [performance metrics](https;//github.com/joelparkrhenderson/performance_metrics)
 
 Aim for high-level roll-up metrics.
 
