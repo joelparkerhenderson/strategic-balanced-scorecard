@@ -61,6 +61,8 @@ Describe what needs to be done and achieved in order for the organization to rea
 
 * Cover business objectives and operational objectives.
 
+* See our [Objective and Key Result README](https;//github.com/joelparkerhenderson/objective_and_key_result)
+
 Use systems thinking to identify cause-and-effect relationships among objectives.
 
 * Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
@@ -85,7 +87,7 @@ Create suitable indicators for your objectives and key results.
 
 * Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
 
-* [Key Performance Indicator guide](https;//github.com/joelparkrhenderson/key_performance_indicator) explains Key Performace Indicators (KPIs),Key Leading Indicators (KLIs), Key Performance Measures (KPMs), and metrics.
+* See our [Key Performance Indicator README](https;//github.com/joelparkerhenderson/key_performance_indicator)
 
 Aim for high-level roll-up indicators.
 
