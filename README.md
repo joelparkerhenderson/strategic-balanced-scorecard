@@ -1,25 +1,28 @@
 # Strategic Balanced Scorecard
 
+The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), and key performance indicators (KPIs).
+
+TOC:
 * [Introduction](#introduction)
-* [How to create a Strategic Balanced Scorecard](#how)
-* [Improve the destination statement](#improve)
-* [Plan your Objectives and Key Results (OKRs)](#okr)
-* [List your Key Success Factors (KSFs)](#ksf)
-* [Create your Key Performance Metrics (KPMs)](#kpi)
-* [Brainstorm Initiatives and Experiments](#initiatives-and-experiements)
-* [Group the work into projects, programs, and portfolios](#group)
-* [Why use a Strategic Balanced Scorecard](#why)
-* [For more information](#more)
+* [How to create a Strategic Balanced Scorecard](#how-to-create-a-strategic-balanced-scorecard)
+* [Improve the destination statement](#improve-the-destination-statement)
+* [Plan your Objectives and Key Results (OKRs)](#plan-your-objectives-and-key-results-okrs)
+* [List your Key Success Factors (KSFs)](#list-your-key-success-factors-ksfs)
+* [Create your Key Performance Indicators (KPIs)](#create-your-key-performance-indicators-kpis)
+* [Brainstorm Initiatives and Experiments](#brainstorm-initiatives-and-experiments)
+* [Group the work](#group-the-work)
+* [Why use a Strategic Balanced Scorecard?](#why-use-a-strategic-balanced-scorecard)
+* [For more information](#for-more-information)
 
 
-<h2><a name="introduction">Introduction</a></h2>
+## Introduction
 
 The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), and key performance indicators (KPIs).
 
 This scorecard is much like on third-generation balanced scorecore. We have with some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
 
 
-<h2><a name="how">How to create a Strategic Balanced Scorecard</a></h2>
+## How to create a Strategic Balanced Scorecard
 
 Imagine a Strategic Destination Statement:
 
@@ -32,7 +35,7 @@ Imagine a Strategic Destination Statement:
   * Consider the organization's strategic themes, competitive advantages, and major initiatives.
 
 
-<h2><a name="improve">Improve the destination statement</a></h2>
+## Improve the destination statement
 
 Improve the destination statement by describing it via four perspectives.
 
@@ -53,7 +56,7 @@ Improve the destination statement by describing it via four perspectives.
   * Examples: what needs to happen for all of the above to be sustained and developed in terms of growth, people, processes, products, perceptions, controls, governance, etc.
 
 
-<h2><a name="okr">Plan your Objectives and Key Results (OKRs)</a></h2>
+## Plan your Objectives and Key Results (OKRs)
 
 Describe what needs to be done and achieved in order for the organization to reach its destination.
 
@@ -68,7 +71,7 @@ Use systems thinking to identify cause-and-effect relationships among objectives
 * Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
 
 
-<h2><a name="ksf">List your Key Success Factors (KSFs)</a></h2>
+## List your Key Success Factors (KSFs)
 
 Describe the actions that teams and individuals must do to reach the objectives and key results.
 
@@ -81,7 +84,7 @@ Aim for high-level factors.
 * There is more value in a short list of the top success factors than in an exhaustive task list that covers every tiny detail.
 
 
-<h2><a name="kpm">Create your Key Performance Indicators (KPIs)</a></h2>
+## Create your Key Performance Indicators (KPIs)
 
 Create suitable indicators for your objectives and key results.
 
@@ -94,7 +97,7 @@ Aim for high-level roll-up indicators.
 * There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
 
 
-<h2><a name="initiatives-and-experiments">Brainstorm Initiatives and Experiments</a></h2>
+## Brainstorm Initiatives and Experiments
 
 Initiatives are special projects where work is well-understood.
 
@@ -109,7 +112,7 @@ Use systems thinking to identify cause-and-effect relationships among initiative
   * Use SMART goal setting, including a finite start date and end date.
 
 
-<h2><a name="group">Group the work</a></h2>
+## Group the work
 
 Group the work into projects, programs, and portfolios.
 
@@ -118,7 +121,7 @@ Group the work into projects, programs, and portfolios.
   * Projects and programs that are unrelated can be grouped into a "portfolio". Typically a portfolio is ongoing, not time-limited.
 
 
-<h2><a name="why">Why use a Strategic Balanced Scorecard?</a></h2>
+## Why use a Strategic Balanced Scorecard?
 
 Transform an organization's strategic plan into active work.
 
@@ -146,7 +149,7 @@ NASA recommends these reasons:
 * Foster and support process continuous improvement initiatives
 
 
-<h2><a name="more">For more information</a></h2>
+## For more information
 
 * Credit: [The development of the Balanced Scorecard as a strategic management tool](https://courses.cs.ut.ee/MTAT.03.243/2015_spring/uploads/Main/BSC.pdf)
 
