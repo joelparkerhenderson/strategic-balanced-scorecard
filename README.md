@@ -1,8 +1,8 @@
 # Strategic Balanced Scorecard
 
-The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), and key performance indicators (KPIs).
+The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), key success factors (KSFs), and key performance indicators (KPIs).
 
-TOC:
+Contents:
 * [Introduction](#introduction)
 * [How to create a Strategic Balanced Scorecard](#how-to-create-a-strategic-balanced-scorecard)
 * [Improve the destination statement](#improve-the-destination-statement)
@@ -17,7 +17,7 @@ TOC:
 
 ## Introduction
 
-The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), and key performance indicators (KPIs).
+The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), key success factors (KSFs), and key performance indicators (KPIs).
 
 This scorecard is much like on third-generation balanced scorecore. We have with some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
 
