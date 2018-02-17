@@ -6,12 +6,12 @@ Contents:
 * [Introduction](#introduction)
 * [How to create a Strategic Balanced Scorecard](#how-to-create-a-strategic-balanced-scorecard)
 * [Improve the destination statement](#improve-the-destination-statement)
-* [Plan your Objectives and Key Results (OKRs)](#plan-your-objectives-and-key-results-okrs)
-* [List your Key Success Factors (KSFs)](#list-your-key-success-factors-ksfs)
-* [Create your Key Performance Indicators (KPIs)](#create-your-key-performance-indicators-kpis)
+* [Plan your Objectives and Key Results (OKRs)](#plan-your-objectives-and-key-results-okrs-)
+* [List your Critical Success Factors (CSFs)](#list-your-critical-success-factors-csfs-)
+* [Create your Key Performance Indicators (KPIs)](#create-your-key-performance-indicators-kpis-)
 * [Brainstorm Initiatives and Experiments](#brainstorm-initiatives-and-experiments)
 * [Group the work](#group-the-work)
-* [Why use a Strategic Balanced Scorecard?](#why-use-a-strategic-balanced-scorecard)
+* [Why use a Strategic Balanced Scorecard?](#why-use-a-strategic-balanced-scorecard-)
 * [For more information](#for-more-information)
 
 
@@ -19,7 +19,7 @@ Contents:
 
 The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), key success factors (KSFs), and key performance indicators (KPIs).
 
-This scorecard is much like on third-generation balanced scorecore. We have with some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
+This scorecard is much like a third-generation balanced scorecard. We use some changes that help our teams with our kinds of projects. Adjust as you like for your own goals.
 
 
 ## How to create a Strategic Balanced Scorecard
@@ -71,7 +71,7 @@ Use systems thinking to identify cause-and-effect relationships among objectives
 * Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
 
 
-## List your Key Success Factors (KSFs)
+## List your Critical Success Factors (CSFs)
 
 Describe the actions that teams and individuals must do to reach the objectives and key results.
 
