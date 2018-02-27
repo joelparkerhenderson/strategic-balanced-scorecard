@@ -1,3 +1,12 @@
+<!--
+  * browser: strategic-balanced-scorecard
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 4.2.0
+  * updated: 2018-02-24T03:07:24Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # Strategic Balanced Scorecard
 
 The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), key performance indicators (KPIs), and Critical Success Factors (CSFs)..
