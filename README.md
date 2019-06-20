@@ -35,34 +35,26 @@ This scorecard is much like a third-generation balanced scorecard. We use some c
 
 Imagine a Strategic Destination Statement:
 
-  * Describe what the organisation is likely to look like at an agreed future date.
+  * Describe what your organization and/or project will look like, at an agreed future date, such as one year from now.
 
   * In many cases this builds on existing plans, documents, vision statements, mission statements, and team knowledge.
 
   * In practice it is rare to find a pre-existing document that offers the necessary destination clarity and certainty.
 
-  * Consider the organization's strategic themes, competitive advantages, and major initiatives.
+  * Consider the organization's and/or project's strategic themes, competitive advantages, and major initiatives.
 
 
 ## Improve the destination statement
 
 Improve the destination statement by describing it via four perspectives.
 
-1. Financial
+  * Financial perspective. Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, stewardship, dividends, etc.
 
-  * Examples: sales, income, earnings, profit, margins, economic value, shareholder returns, stewardship, dividends, etc.
+  * External perspective. Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
 
-2. External
+  * Internal perspective. Examples: company processes, business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
 
-  * Examples: how we wish to be perceived by customers, partners, vendors, regulators, job seekers, the general public, etc.
-
-3. Internal
-
-  * Examples: company processes, business practices, cycle time, company rules and regulations, productivity, efficiency, throughput, etc.
-
-4. Learning
-
-  * Examples: what needs to happen for all of the above to be sustained and developed in terms of growth, people, processes, products, perceptions, controls, governance, etc.
+  * Learning perspective. Examples: what needs to happen for all of the above to be sustained and developed in terms of growth, governance, people, processes, practices, products, promotions, perceptions, etc.
 
 
 ## Plan your Objectives and Key Results (OKRs)
