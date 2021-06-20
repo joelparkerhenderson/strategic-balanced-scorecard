@@ -9,6 +9,8 @@
 
 # Strategic Balanced Scorecard
 
+<img src="README.png" alt="Strategic Balanced Scorecard" style="width: 100%;"/>
+
 The Strategic Balanced Scorecard is direct approach to business planning, including goals, objectives and key results (OKRs), key performance indicators (KPIs), and Critical Success Factors (CSFs).
 
 Contents:
@@ -59,8 +61,6 @@ Improve the destination statement by describing it via four perspectives.
 
 ## Plan your Objectives and Key Results (OKRs)
 
-[Objectives and Key Results - More Info](https;//github.com/joelparkerhenderson/objectives-and-key-results)
-
 Describe what needs to be done and achieved in order for the organization to reach its goals.
 
 * Cover each strategic perspective: financial, external, internal, learning.
@@ -77,10 +77,10 @@ Use systems thinking.
 
 * Systems thinking can help interrelate actions so they can be mutually supportive.
 
+[More: Objectives and Key Results](https;//github.com/joelparkerhenderson/objectives-and-key-results)
+
 
 ## Create your Key Performance Indicators (KPIs)
-
-[Key Performance Indicator - More Info](https;//github.com/joelparkerhenderson/key_performance_indicator)
 
 Create suitable indicators for your objectives and key results.
 
@@ -96,10 +96,10 @@ Aim for high-level indicators.
 
 * There is more value in indicators that all teammates can view than in indicators that are only shown to some managers.
 
+[More: Key Performance Indicator](https;//github.com/joelparkerhenderson/key_performance_indicator)
+
 
 ## List your Critical Success Factors (CSFs)
-
-[Critical Success Factors - More Info](https;//github.com/joelparkerhenderson/critical-success-factors)
 
 Describe the actions that teams and individuals must do to reach the objectives and key results.
 
@@ -114,6 +114,8 @@ Aim for high-level factors.
 * There is more value in a short list of the top success factors than in an exhaustive task list that covers every tiny detail.
 
 * There is more value in leading indicators (i.e. something you can address ahead of time) than in trailing indicators (i.e. something you can oonly address after something happens).
+
+[More: Critical Success Factors](https;//github.com/joelparkerhenderson/critical-success-factors)
 
 
 ## Brainstorm Initiatives and Experiments
