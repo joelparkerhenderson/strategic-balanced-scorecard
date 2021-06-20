@@ -16,8 +16,8 @@ Contents:
 * [How to create a Strategic Balanced Scorecard](#how-to-create-a-strategic-balanced-scorecard)
 * [Improve the destination statement](#improve-the-destination-statement)
 * [Plan your Objectives and Key Results (OKRs)](#plan-your-objectives-and-key-results-okrs-)
-* [List your Critical Success Factors (CSFs)](#list-your-critical-success-factors-csfs-)
 * [Create your Key Performance Indicators (KPIs)](#create-your-key-performance-indicators-kpis-)
+* [List your Critical Success Factors (CSFs)](#list-your-critical-success-factors-csfs-)
 * [Brainstorm Initiatives and Experiments](#brainstorm-initiatives-and-experiments)
 * [Group the work](#group-the-work)
 * [Why use a Strategic Balanced Scorecard?](#why-use-a-strategic-balanced-scorecard-)
@@ -59,20 +59,47 @@ Improve the destination statement by describing it via four perspectives.
 
 ## Plan your Objectives and Key Results (OKRs)
 
-Describe what needs to be done and achieved in order for the organization to reach its destination.
+[Objectives and Key Results - More Info](https;//github.com/joelparkerhenderson/objectives-and-key-results)
+
+Describe what needs to be done and achieved in order for the organization to reach its goals.
 
 * Cover each strategic perspective: financial, external, internal, learning.
 
-* Cover business objectives and operational objectives.
+* Cover business objectives.
 
-* See our [Objective and Key Result README](https;//github.com/joelparkerhenderson/objective_and_key_result)
+* Cover operational objectives.
 
-Use systems thinking to identify cause-and-effect relationships among objectives.
+Use systems thinking.
 
-* Systems thinking helps ensure the objectives are mutually supportive and represent the combined thinking of the team’s high-level perception of the business model.
+* Systems thinking represents the combined thinking of the team’s high-level perception of the business model.
+
+* Systems thinking can identify cause-and-effect relationships among objectives.
+
+* Systems thinking can help interrelate actions so they can be mutually supportive.
+
+
+## Create your Key Performance Indicators (KPIs)
+
+[Key Performance Indicator - More Info](https;//github.com/joelparkerhenderson/key_performance_indicator)
+
+Create suitable indicators for your objectives and key results.
+
+* Construct the metrics to support management’s ability to monitor the organization.
+
+* The purpose of the monitoring is to show progress towards achievement of goals.
+
+* The monitoring must also be able to show when something is off-track and needs attention.
+
+Aim for high-level indicators.
+
+* There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
+
+* There is more value in indicators that all teammates can view than in indicators that are only shown to some managers.
 
 
 ## List your Critical Success Factors (CSFs)
+
+[Critical Success Factors - More Info](https;//github.com/joelparkerhenderson/critical-success-factors)
 
 Describe the actions that teams and individuals must do to reach the objectives and key results.
 
@@ -80,22 +107,13 @@ Describe the actions that teams and individuals must do to reach the objectives 
 
 * Cover how to change people, processes, tools, controls, and strategy.
 
+* Cover potential risks and their mitigations, such as people continuity and process continuity
+
 Aim for high-level factors.
 
 * There is more value in a short list of the top success factors than in an exhaustive task list that covers every tiny detail.
 
-
-## Create your Key Performance Indicators (KPIs)
-
-Create suitable indicators for your objectives and key results.
-
-* Construct the metrics to support management’s ability to monitor the organisation’s progress towards achievement of its goals.
-
-* See our [Key Performance Indicator README](https;//github.com/joelparkerhenderson/key_performance_indicator)
-
-Aim for high-level roll-up indicators.
-
-* There is more value in a short list of the top measurements than in an exhaustive list of that covers every tiny detail.
+* There is more value in leading indicators (i.e. something you can address ahead of time) than in trailing indicators (i.e. something you can oonly address after something happens).
 
 
 ## Brainstorm Initiatives and Experiments
@@ -145,8 +163,11 @@ Monitor organization performance compared with strategic goals.
 NASA recommends these reasons:
 
 * Align a balanced set of performance metrics with business strategy and vision
+
 * Provide management and work teams with the information necessary and sufficient to meet their objectives and goals
+
 * Create “line-of-sight” at lower levels of the organization
+
 * Foster and support process continuous improvement initiatives
 
 
